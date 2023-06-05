@@ -1,5 +1,5 @@
-# coopculture-bot
-Skip the line. Fast coopculture ticket booking bot.
+# Coop Culture bot
+Fast coopculture ticket booking bot.
 
 Bot Features:
 - When the date turns green, the bot adds to cart the available ticket ✅
