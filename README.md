@@ -12,4 +12,4 @@ Fast coopculture ticket booking bot.
 - Antibot bypass ✅
 - Using cache for faster add to carts ✅
 
-Contact me discord if you are interested: Nisthar#4447
+**Contact me discord if you are interested**: _Nisthar#4447_
