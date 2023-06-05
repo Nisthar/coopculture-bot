@@ -1,7 +1,7 @@
-# Coop Culture bot
+# **Coop Culture bot**
 Fast coopculture ticket booking bot.
 
-Bot Features:
+**Bot Features**:
 - When the date turns green, the bot adds to cart the available ticket ✅
 - After the add to cart, the bot opens the normal browser for completing the payment ✅
 - Captcha bypass ✅
