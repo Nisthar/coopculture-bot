@@ -7,7 +7,7 @@ Fast coopculture ticket booking bot.
 - Captcha bypass ✅
 - IP rotation ✅
 - Stealth mode ✅
-- Works within 1 second for available dates ✅
+- Adds to cart in 1 second for available dates ✅
 - Awesome GUI ✅
 - Antibot bypass ✅
 - Using cache for faster add to carts ✅
